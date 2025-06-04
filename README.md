@@ -27,11 +27,12 @@ Este projeto demonstra como extrair automaticamente citações do site http://qu
 - **`quotes.csv`**: Arquivo CSV gerado contendo as citações extraídas (texto, autor e tamanho).  
 - **`README.md`**: Descrição completa do projeto, instruções e metodologia.
 
+```
     .
     ├── webscraping_example.ipynb
     ├── quotes.csv
     └── README.md
-
+```
 ---
 
 ## 🧠 **Métodos Implementados**
